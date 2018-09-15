@@ -3,12 +3,12 @@
 @ Kiranpreet
 
 **************** Matching ******************
-1)Commits History/Changes
-2) Sync (push/pull) with Origin
-3) Alterations of committed item
-4) General Operational Tools for Maintenance
-5) Change branch
-6) Current (selection of) repository
+1)Commits History/Changes  =  F
+2) Sync (push/pull) with Origin  = D
+3) Alterations of committed item  =- E
+4) General Operational Tools for Maintenance  = B
+5) Change branch  =  C
+6) Current (selection of) repository  = A
 
 *******************Short Answer Questions**********************
 
@@ -22,7 +22,10 @@ Ans: File
 Ans: Repository
 
 4) List the four views that you can change to under View.
-Ans: 
+Ans: i) Detail View
+    ii) List View 
+   iii) Repeator View
+    iv) Grid View
 
 5) List the two items you can edit under Repository → Repository settings ...
 Ans: i) Remote
